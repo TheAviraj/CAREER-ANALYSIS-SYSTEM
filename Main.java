@@ -39,11 +39,7 @@ public class Main {
         else {
             System.out.println("invalid option!");
         }
-        System.out.println("\nThis mini project done by : " +
-                "\n--> IMMADISETTY BALA VENKATA RAMA SAI - 9920004051" +
-                "\n--> PENDYALA RAJA YASWANTH - 992000103" +
-                "\n--> JINKA THE AVIRAJ - 9920004055" +
-                "\n\n Guide:" +
-                "\n     Dr.SURYA SELWIN madam");
+        System.out.println("\nThis mini project done by : "+
+                "\n--> JINKA THE AVIRAJ - 9920004055");
     }
 }
